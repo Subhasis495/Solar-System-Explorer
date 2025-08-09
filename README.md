@@ -3,7 +3,7 @@
 An interactive 3D solar system viewer built entirely with **HTML** and **CSS**, showcasing the planets, their moons, and interesting facts — no JavaScript required.
 
 ## Live Demo
-![Solar System Preview](https://i.imgur.com/your-preview-image.png)
+[Solar System Preview](https://solarsystemexplor.netlify.app/)
 
 ## Features
 - Fully interactive planet selection menu.
@@ -27,7 +27,7 @@ An interactive 3D solar system viewer built entirely with **HTML** and **CSS**, 
 
 ```bash
 # Example:
-git clone https://github.com/yourusername/solar-system-explorer.git
+git clone https://github.com/Subhasis495/solar-system-explorer.git
 cd solar-system-explorer
 open index.html 
 ```
@@ -36,7 +36,6 @@ open index.html
 - **HTML5** – Content structure
 - **CSS3** – Styling, animations, and 3D effects
 - **Google Fonts** – Montserrat typography
-- **Font Awesome** – Icons (if used)
 - **External Planet Textures** – NASA & other sources
 
 ## Contributing
